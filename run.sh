@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6  python run.py --config ./config.py --run_name 'vit-base-lr-5e-5-bs-128'
